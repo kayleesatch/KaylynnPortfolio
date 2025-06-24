@@ -7,7 +7,7 @@ export default function About() {
                     I am Kaylynn Satchell, a frontend developer with a passion for creating vibrant, interactive web experiences.
                 </p>
                 <p className="text-lg leading-relaxed">
-                    I bring creativity, attention to detail, and people-first energy into everything i build. Now I am ready to bring that energy to a team that's building the future.
+                    I bring creativity, attention to detail, and people-first energy into everything I build. Now I am ready to bring that energy to a team that's building the future.
                 </p>
                 <p className="text-lg leading-relaxed mb-4">
                     After over 25 years in the restaurant industry, I made a bold leap into tech - and I haven't looked back.
