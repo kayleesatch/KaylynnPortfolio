@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0d1117;
+}
+
+.drop-shadow-red {
+  filter: drop-shadow(0 0 8px #ff4c4c);
+}
+
+.drop-shadow-orange {
+  filter: drop-shadow(0 0 8px #ff9900);
+}
+
+.drop-shadow-yellow {
+  filter: drop-shadow(0 0 8px #ffff33);
+}
+
+.drop-shadow-green {
+  filter: drop-shadow(0 0 8px #33ff99);
+}
+
+.drop-shadow-blue {
+  filter: drop-shadow(0 0 8px #33ccff);
+}
+
+.drop-shadow-purple {
+  filter: drop-shadow(0 0 8px #cc66ff);
+}
