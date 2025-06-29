@@ -5,13 +5,13 @@ import { useInView } from "react-intersection-observer";
 const projectData = [
     {
         title: "NFT Marketplace",
-        description: "Built with React, Axios, and dynamic API integration",
+        description: "React, Axios, and dynamic API integration",
         url: "https://kaylynn-internship.vercel.app/",
         colors: ["text-red-500", "text-yellow-500", "text-yellow-500"],
     },
     {
-        title: "Xora - Interactive Game Site",
-        description: "React, Vite, Tailwind, GSAP - multiple dimensions with style",
+        title: "Xora - AI Video Editor",
+        description: "React, Vite, Tailwind, GSAP",
         url: "https://xora-clone-seven.vercel.app/",
         colors: ["text-blue-500", "text-green-500", "text-green-500"],
     },
@@ -20,6 +20,12 @@ const projectData = [
         description: "Browse & buy books. React + Js + Cart logic",
         url: "https://library-react-tutorial-ten.vercel.app/",
         colors: ["text-purple-500", "text-orange-500", "text-orange-500"],
+    },
+    {
+        title: "Awards - Gaming site",
+        description: "React, Vite, Tailwind, GSAP",
+        url: "https://awards-clone-mocha.vercel.app/",
+        colors: ["text-green-500","text-red-500", "text-red-500"],
     },
 ];
 
