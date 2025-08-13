@@ -4,6 +4,18 @@ import { useInView } from "react-intersection-observer";
 
 const projectData = [
     {
+        title: "Hidden Cafe",
+        description: "React and TailwindCSS to make a small business a website and make it so they can order online.",
+        url: "https://kaylynn-portfolio.vercel.app/",
+        colors: ["text-purple-500", "text-orange-500", "text-orange-500"],
+    },
+    {
+        title: "Diana's Crockpot Creations",
+        description: "Vite, React, and TailwindCSS to make a small business grow.",
+        url: "https://dianas-crockpot-creations.vercel.app/",
+        colors: ["text-blue-500", "text-green-500", "text-green-500"],
+    },
+    {
         title: "NFT Marketplace",
         description: "React, Axios, and dynamic API integration",
         url: "https://kaylynn-internship.vercel.app/",
@@ -97,7 +109,7 @@ function ProjectEntry({ title, description, url, colors }) {
                             <a 
                                 href={url}
                                 target="_blank"
-                                rel="noonpener noreferrer"
+                                rel="noopener noreferrer"
                                 className="underline hover:text-white"
                             >
                                 'Live: {url}'
